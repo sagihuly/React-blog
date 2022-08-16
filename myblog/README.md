@@ -5,4 +5,4 @@ In the project directory, start by runing:
 
 Then, on a different terminal run:
 
-### 'npx json-server --watch /data/db.json --port 8000'
+### 'npx json-server --watch data/db.json --port 8000'
